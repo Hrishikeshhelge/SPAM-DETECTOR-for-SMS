@@ -22,12 +22,11 @@ The growth of the mobile phone users has led to a dramatic increase in SMS spam 
 2. HTML, CSS & Flask for building Web pages.
 3. Numpy and Pandas for data cleaning.
 4. Matplotlib & seaborn for data visualization.
-5. scikit-learn for exploring the data, & Model Evalution.
-6. RandomForestClassifier for model building.
-7. pickle 
-8. Flask 
-9. Heroku (PaaS)
-10. Jupyter notebook, Spyder as IDE.
+5. Natural Language Processing for model building.
+6. pickle 
+7. Flask 
+8. Heroku (PaaS)
+9. Jupyter notebook, Spyder as IDE.
 * All the steps required to execute the project have been mentioned in the .ipynb file.
 * ### WEB APP
 ![](IMG.png)
